@@ -13,7 +13,7 @@ Si la dépêche n'est pas encore publiée sur le site [LinuxFr.org](https://linu
 alors c'est plus simple de créer un compte sur [LinuxFr.org](https://linuxfr.org/compte/inscription)
 et de participer à sa [rédaction collaborative sur le site LinuxFr.org](https://linuxfr.org/redaction).
 
-Arès publication, la dépêche ne peut plus être modifiée sur LinuxFr.org (elle restera figée).
+Après publication, la dépêche ne peut plus être modifiée sur LinuxFr.org (elle restera figée).
 Par contre, compléter/corriger le contenu libre sera toujours possible sur ce dépôt Git.
 Créer alors un compte GitHub.
     
